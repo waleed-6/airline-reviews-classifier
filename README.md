@@ -1,2 +1,2 @@
 # airline-reviews-classifier
-This dataset contains reviews of the top 10 rated airlines in 2023 sourced from the Airline Quality 
+This dataset includes reviews of the top 10 rated airlines in 2023, obtained from the Airline Quality (https://www.airlinequality.com) website. The reviews address multiple aspects of the flight experience, such as seat comfort, service quality, food and beverages, inflight entertainment, value for money, and overall ratings. The model achieved an accuracy of 73% on 3,700 records, utilizing a straightforward architecture with one embedding layer and two Bidirectional LSTM layers.
